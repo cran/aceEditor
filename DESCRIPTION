@@ -1,6 +1,6 @@
 Package: aceEditor
 Title: The 'Ace' Editor as a HTML Widget
-Version: 0.1.0
+Version: 1.0.0
 Authors@R: c(
     person(
       "Stéphane", "Laurent", 
@@ -42,7 +42,7 @@ Imports: htmltools, htmlwidgets, reactR, rstudioapi, tools
 URL: https://github.com/stla/aceEditor
 BugReports: https://github.com/stla/aceEditor/issues
 NeedsCompilation: no
-Packaged: 2020-10-14 08:37:29 UTC; stla
+Packaged: 2020-11-14 09:29:22 UTC; stla
 Author: Stéphane Laurent [aut, cre],
   James Hrisho [ctb, cph] ('react-ace' library),
   James Long and contributors [ctb, cph] ('Prettier' library),
@@ -52,4 +52,4 @@ Author: Stéphane Laurent [aut, cre],
   Limon Monte [ctb, cph] ('sweetalert2' library)
 Maintainer: Stéphane Laurent <laurent_step@outlook.fr>
 Repository: CRAN
-Date/Publication: 2020-10-22 15:20:05 UTC
+Date/Publication: 2020-11-14 10:00:02 UTC
